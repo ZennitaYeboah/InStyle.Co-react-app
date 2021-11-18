@@ -1,1 +1,2 @@
-# InStyle.Co-react-app
+# InStyle.Co
+ 
